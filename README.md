@@ -1,6 +1,6 @@
 # Book Library
 
-This App is a simple application I've built for trying out some things I've learned about, React, Tailwind, Vite, and Vitest.
+This App is a simple application I've built for trying out some things I've learned about: React, Tailwind, Vite, and Vitest.
 
 I chose to use [fakerApi](https://fakerapi.it/en) to get a list of randomly generated "not real" books.
 
